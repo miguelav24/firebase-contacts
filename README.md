@@ -2,6 +2,8 @@
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 17.1.3.
 
+Aplicación de contactos con Firebase, utilizando firestore como base de datos. Listar, crear, actualizar y borrar documentos en colecciones firestore. Tailwindcss para dar estilos a la aplicación.
+
 ## Development server
 
 Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The application will automatically reload if you change any of the source files.
